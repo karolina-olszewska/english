@@ -333,6 +333,80 @@ lektorat 2semestr
 - *The legacy was nothing like as strong as we’d been promised.*
 - *Climbing the tower was easily as hard as we’d been warned.*
 
+
+
+# SpeakOut C1 – Debate, Vocabulary & Grammar Guide
+
+## Vocabulary (Enriched & Filtered)
+
+| English                     | Polish                                   |
+|----------------------------|-------------------------------------------|
+| Get hung up about          | Przejmować się czymś                      |
+| Throw in the towel         | Poddać się                                |
+| Knock confidence           | Podkopać pewność siebie                   |
+| Fertile imagination        | Buja wyobraźnia                           |
+| Out of the blue            | Niespodziewanie                           |
+| Raw talent                 | Wrodzony talent                           |
+| Spark ideas                | Zainicjować pomysły                       |
+| Look from a new angle      | Spojrzeć z innej perspektywy              |
+| Take into account          | Brać pod uwagę                            |
+| Fulfil your potential      | Wykorzystać swój potencjał                |
+| Establish mutual respect   | Budować wzajemny szacunek                 |
+| Take the initiative        | Przejąć inicjatywę                         |
+| Strive for excellence      | Dążyć do doskonałości                     |
+| Nurturing environment      | Wspierające środowisko                    |
+| Tangible outcomes          | Namacalne rezultaty                       |
+| Find your own path         | Odnaleźć własną drogę                     |
+| Blended learning           | Nauczanie hybrydowe                       |
+| Continuous assessment      | Ocena ciągła                              |
+| Make strides               | Robić postępy                             |
+| Cut and dried              | Oczywiste, przesądzone                    |
+| Trial and error            | Próby i błędy                             |
+
+---
+
+## Grammar – Conditionals
+
+| Type         | Structure                                      | Example                                       |
+|--------------|------------------------------------------------|-----------------------------------------------|
+| 1st          | If + present simple, will + base verb          | *If I study, I will pass.*                    |
+| 2nd          | If + past simple, would + base verb            | *If I knew, I would tell you.*                |
+| 3rd          | If + past perfect, would have + past participle| *If I had seen her, I would have waved.*      |
+| Mixed        | If + past perfect, would + base verb           | *If I had slept, I wouldn't be tired now.*    |
+| Alternatives | But for, Provided that, Should, Unless         | *But for you, I would have failed.*           |
+
+---
+
+## Grammar – Relative Clauses
+
+| Type                    | Example                                      |
+|-------------------------|----------------------------------------------|
+| Defining                | *The student who studies hard will pass.*   |
+| Non-defining            | *My brother, who lives in Paris, is a chef.*|
+| Nominal relative clause | *What you did was brave.*                   |
+
+---
+
+## Advanced Comparison Grammar
+
+- **as + adjective + as** → *It wasn’t as exciting as expected.*
+- **nothing like as... as** → *It was nothing like as hard as you said.*
+- **like / as** → *He works like a machine. / As a teacher, I know...*
+- **the more..., the more...** → *The more you try, the better you get.*
+
+---
+
+## Debate Tip Vocabulary (Selected)
+
+| Expression                     | Meaning                             |
+|-------------------------------|-------------------------------------|
+| Raise ethical concerns         | Budzi wątpliwości etyczne           |
+| Promote responsibility         | Promować odpowiedzialność           |
+| Infringe on personal freedom   | Naruszać wolność osobistą           |
+| Encourage civic engagement     | Zachęcać do zaangażowania obywatelskiego |
+| Support environmental action   | Wspierać działania ekologiczne      |
+| Lead to inequality             | Prowadzić do nierówności            |
+
 ---
 
 This file includes selected vocabulary, idioms, collocations, compound nouns, and grammar points from **pages 6–24 and 136–137** of the *SpeakOut C1* student’s book, tailored to Karola’s level and preferences.
