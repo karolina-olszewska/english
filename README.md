@@ -243,4 +243,96 @@ lektorat 2semestr
 **Against:**
 - Donations should be voluntary, not mandatory.
 - Government should handle wealth redistribution, not individuals.
-- Risk of performative or ineffective charity.
+- Risk of performative or ineffective charity.              
+
+
+
+# SpeakOut C1 – Vocabulary and Grammar Notes
+
+## Vocabulary Highlights (Units 1A–1D)
+
+| English Expression              | Polish Translation                         |
+|--------------------------------|--------------------------------------------|
+| Get hung up about              | Przejmować się czymś                      |
+| Throw in the towel             | Poddać się                                |
+| Knock confidence               | Podkopać pewność siebie                   |
+| Fertile imagination            | Buja wyobraźnia                           |
+| Out of the blue                | Niespodziewanie                           |
+| Raw talent                     | Wrodzony talent                           |
+| Spark ideas                    | Zainicjować pomysły                       |
+| Look at sth from a new angle  | Spojrzeć z innej perspektywy              |
+| Take sth into account          | Brać pod uwagę                            |
+| Fulfil your potential          | Wykorzystać swój potencjał                |
+| Establish mutual respect       | Budować wzajemny szacunek                 |
+| Take the initiative            | Przejąć inicjatywę                         |
+| Strive for excellence          | Dążyć do doskonałości                     |
+| Well-rounded education         | Wszechstronne wykształcenie               |
+| Nurturing environment          | Wspierające środowisko                    |
+| Tangible outcomes              | Namacalne rezultaty                       |
+| Find your own path             | Odnaleźć własną drogę                     |
+| Blended learning               | Nauczanie hybrydowe                       |
+| Continuous assessment          | Ocena ciągła                              |
+| Virtual learning environment   | Wirtualne środowisko nauczania            |
+| Peer assessment                | Ocena rówieśnicza                         |
+| Rote learning                  | Nauka przez powtarzanie                   |
+
+## Compound Nouns (Education Context)
+
+| Term                         | Meaning                                           |
+|------------------------------|---------------------------------------------------|
+| Tuition fees                 | Opłaty za naukę                                   |
+| Student loan                 | Pożyczka studencka                                |
+| Continuous assessment        | Ocena ciągła (przez zadania, nie egzaminy)        |
+| Virtual learning environment | Platforma e-learningowa                           |
+| Vocational training          | Szkolenie zawodowe                                |
+| Blended learning             | Nauka mieszana (offline + online)                 |
+| Rote learning                | Mechaniczne zapamiętywanie                        |
+| External accreditation       | Zewnętrzna akredytacja                            |
+| Peer assessment              | Ocena przez rówieśników                           |
+| Critical thinking            | Myślenie krytyczne                                |
+
+## Multi-word Verbs (p. 23)
+
+| Expression         | Meaning                                |
+|--------------------|----------------------------------------|
+| Call for           | Wzywać do                              |
+| Fill in (on sth)   | Wtajemniczyć, przekazać informacje     |
+| Talk sb into sth   | Namówić                                |
+| Back sb up         | Poprzeć kogoś                          |
+| Tip sb off         | Ostrzec                                |
+| Reel off            | Wymieniać z pamięci                    |
+
+## Idioms & Collocations (p. 136–137 + readings)
+
+| Idiom/Expression        | Meaning                            |
+|--------------------------|-------------------------------------|
+| Peace and quiet          | Cisza i spokój                     |
+| Hustle and bustle        | Zgiełk                             |
+| Make or break            | Decydujący moment                  |
+| Give or take             | Plus minus                         |
+| Cut and dried            | Przesądzone, oczywiste             |
+| Sooner or later          | Prędzej czy później                |
+| Pick and choose          | Przebierać w czymś                 |
+| Trial and error          | Próby i błędy                      |
+| First and foremost       | Przede wszystkim                   |
+| Part and parcel          | Integralna część czegoś            |
+| Learn and grow           | Uczyć się i rozwijać               |
+| Live and learn           | Człowiek uczy się całe życie       |
+
+## Grammar – Advanced Comparison
+
+### Common Structures
+
+- **as + adjective + as**: *It wasn’t as good as expected.*
+- **like** + noun/phrase: *It felt like a dream.*
+- **the more..., the more...**: *The more I study, the better I get.*
+
+### Examples
+
+- *It wasn’t so much an invitation as an order.*
+- *The legacy was nothing like as strong as we’d been promised.*
+- *Climbing the tower was easily as hard as we’d been warned.*
+
+---
+
+This file includes selected vocabulary, idioms, collocations, compound nouns, and grammar points from **pages 6–24 and 136–137** of the *SpeakOut C1* student’s book, tailored to Karola’s level and preferences.
